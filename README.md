@@ -1,6 +1,8 @@
 # Big-Bezel-Bruce
 A big-bezeled case for Bruce the Keyboard (not the human)
 
+<img src="https://github.com/Chronomap/Big-Bezel-Bruce/blob/main/Images/bruceweight.jpg" Width="600">
+
 ## Features
 - One-piece case designed for 3D printing
   - designed for use with M2 heatset inserts.
