@@ -35,4 +35,6 @@ Use what's in this repository as you see fit, within reason.
 If you build one, shoot me some pics! I'm best contacted on Discord @Chronomap
 
 ## Additional Pics
+<img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/BruceCapless.jpg" Width="600">
 <img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/Bruce3D.png" Width="600">
+
