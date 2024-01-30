@@ -2,6 +2,7 @@
 A big-bezeled case for Bruce the Keyboard (not the human)
 
 <img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/bruceweight.jpg" Width="600">
+(additional pics once I get keycaps)
 
 ## Features
 - One-piece case designed for 3D printing
