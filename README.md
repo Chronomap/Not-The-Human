@@ -1,7 +1,7 @@
-# Big-Bezel-Bruce
+# Not the human
 A big-bezeled case for Bruce the Keyboard (not the human)
 
-<img src="https://github.com/Chronomap/Big-Bezel-Bruce/blob/main/Images/bruceweight.jpg" Width="600">
+<img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/bruceweight.jpg" Width="600">
 
 ## Features
 - One-piece case designed for 3D printing
@@ -15,7 +15,7 @@ A big-bezeled case for Bruce the Keyboard (not the human)
 
 ## Want one?
 
-All relevant STL and STEP files are available
+STL file for printing is available
 
 Additional parts needed:
 - Bruce the Keyboard PCB (Currently closed source)
@@ -34,4 +34,4 @@ Use what's in this repository as you see fit, within reason.
 If you build one, shoot me some pics! I'm best contacted on Discord @Chronomap
 
 ## Additional Pics
-
+<img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/Bruce3D.png" Width="600">
