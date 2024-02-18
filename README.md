@@ -1,8 +1,8 @@
 # Not the human
 A big-bezeled case for Bruce the Keyboard (not the human)
 
+<img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/bruceBuilt.jpg" Width="600">
 <img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/bruceweight.jpg" Width="600">
-(additional pics once I get keycaps)
 
 ## Features
 - One-piece case designed for 3D printing
@@ -35,6 +35,7 @@ Use what's in this repository as you see fit, within reason.
 If you build one, shoot me some pics! I'm best contacted on Discord @Chronomap
 
 ## Additional Pics
+<img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/bruceIso.jpg" Width="600">
 <img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/BruceCapless.jpg" Width="600">
 <img src="https://github.com/Chronomap/Not-The-Human/blob/main/Images/Bruce3D.png" Width="600">
 
